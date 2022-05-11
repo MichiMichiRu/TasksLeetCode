@@ -1,0 +1,15 @@
+D:\VS_projects\LeetCode_Roman-To-Int\LeetCode_Roman-To-Int\bin\Debug\net6.0\LeetCode_Roman-To-Int.exe
+D:\VS_projects\LeetCode_Roman-To-Int\LeetCode_Roman-To-Int\bin\Debug\net6.0\LeetCode_Roman-To-Int.deps.json
+D:\VS_projects\LeetCode_Roman-To-Int\LeetCode_Roman-To-Int\bin\Debug\net6.0\LeetCode_Roman-To-Int.runtimeconfig.json
+D:\VS_projects\LeetCode_Roman-To-Int\LeetCode_Roman-To-Int\bin\Debug\net6.0\LeetCode_Roman-To-Int.dll
+D:\VS_projects\LeetCode_Roman-To-Int\LeetCode_Roman-To-Int\bin\Debug\net6.0\LeetCode_Roman-To-Int.pdb
+D:\VS_projects\LeetCode_Roman-To-Int\LeetCode_Roman-To-Int\obj\Debug\net6.0\LeetCode_Roman-To-Int.csproj.AssemblyReference.cache
+D:\VS_projects\LeetCode_Roman-To-Int\LeetCode_Roman-To-Int\obj\Debug\net6.0\LeetCode_Roman-To-Int.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_projects\LeetCode_Roman-To-Int\LeetCode_Roman-To-Int\obj\Debug\net6.0\LeetCode_Roman-To-Int.AssemblyInfoInputs.cache
+D:\VS_projects\LeetCode_Roman-To-Int\LeetCode_Roman-To-Int\obj\Debug\net6.0\LeetCode_Roman-To-Int.AssemblyInfo.cs
+D:\VS_projects\LeetCode_Roman-To-Int\LeetCode_Roman-To-Int\obj\Debug\net6.0\LeetCode_Roman-To-Int.csproj.CoreCompileInputs.cache
+D:\VS_projects\LeetCode_Roman-To-Int\LeetCode_Roman-To-Int\obj\Debug\net6.0\LeetCode_Roman-To-Int.dll
+D:\VS_projects\LeetCode_Roman-To-Int\LeetCode_Roman-To-Int\obj\Debug\net6.0\refint\LeetCode_Roman-To-Int.dll
+D:\VS_projects\LeetCode_Roman-To-Int\LeetCode_Roman-To-Int\obj\Debug\net6.0\LeetCode_Roman-To-Int.pdb
+D:\VS_projects\LeetCode_Roman-To-Int\LeetCode_Roman-To-Int\obj\Debug\net6.0\LeetCode_Roman-To-Int.genruntimeconfig.cache
+D:\VS_projects\LeetCode_Roman-To-Int\LeetCode_Roman-To-Int\obj\Debug\net6.0\ref\LeetCode_Roman-To-Int.dll
