@@ -1,0 +1,16 @@
+D:\VS_projects\TasksFromLeetcode\RichestCustomerWealth\RichestCustomerWealth\bin\Debug\net5.0\RichestCustomerWealth.exe
+D:\VS_projects\TasksFromLeetcode\RichestCustomerWealth\RichestCustomerWealth\bin\Debug\net5.0\RichestCustomerWealth.deps.json
+D:\VS_projects\TasksFromLeetcode\RichestCustomerWealth\RichestCustomerWealth\bin\Debug\net5.0\RichestCustomerWealth.runtimeconfig.json
+D:\VS_projects\TasksFromLeetcode\RichestCustomerWealth\RichestCustomerWealth\bin\Debug\net5.0\RichestCustomerWealth.runtimeconfig.dev.json
+D:\VS_projects\TasksFromLeetcode\RichestCustomerWealth\RichestCustomerWealth\bin\Debug\net5.0\RichestCustomerWealth.dll
+D:\VS_projects\TasksFromLeetcode\RichestCustomerWealth\RichestCustomerWealth\bin\Debug\net5.0\RichestCustomerWealth.pdb
+D:\VS_projects\TasksFromLeetcode\RichestCustomerWealth\RichestCustomerWealth\obj\Debug\net5.0\RichestCustomerWealth.csproj.AssemblyReference.cache
+D:\VS_projects\TasksFromLeetcode\RichestCustomerWealth\RichestCustomerWealth\obj\Debug\net5.0\RichestCustomerWealth.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_projects\TasksFromLeetcode\RichestCustomerWealth\RichestCustomerWealth\obj\Debug\net5.0\RichestCustomerWealth.AssemblyInfoInputs.cache
+D:\VS_projects\TasksFromLeetcode\RichestCustomerWealth\RichestCustomerWealth\obj\Debug\net5.0\RichestCustomerWealth.AssemblyInfo.cs
+D:\VS_projects\TasksFromLeetcode\RichestCustomerWealth\RichestCustomerWealth\obj\Debug\net5.0\RichestCustomerWealth.csproj.CoreCompileInputs.cache
+D:\VS_projects\TasksFromLeetcode\RichestCustomerWealth\RichestCustomerWealth\obj\Debug\net5.0\RichestCustomerWealth.dll
+D:\VS_projects\TasksFromLeetcode\RichestCustomerWealth\RichestCustomerWealth\obj\Debug\net5.0\refint\RichestCustomerWealth.dll
+D:\VS_projects\TasksFromLeetcode\RichestCustomerWealth\RichestCustomerWealth\obj\Debug\net5.0\RichestCustomerWealth.pdb
+D:\VS_projects\TasksFromLeetcode\RichestCustomerWealth\RichestCustomerWealth\obj\Debug\net5.0\RichestCustomerWealth.genruntimeconfig.cache
+D:\VS_projects\TasksFromLeetcode\RichestCustomerWealth\RichestCustomerWealth\obj\Debug\net5.0\ref\RichestCustomerWealth.dll

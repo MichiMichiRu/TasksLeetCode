@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zqjkZ+eo6zdx144J/roKch+2th0gVMzdI017YLKHDsG0wiVdlv7Tocy9xdG4O2s6bUnMMffR4+L/aIvQEhRtLw==",
+  "success": true,
+  "projectFilePath": "D:\\VS_projects\\TasksFromLeetcode\\RichestCustomerWealth\\RichestCustomerWealth\\RichestCustomerWealth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\michi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
